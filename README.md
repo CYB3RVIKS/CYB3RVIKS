@@ -1,6 +1,6 @@
 ## Hi, I'm Vicky 👋
 
-Cybersecurity student passionate about ethical hacking, penetration testing, and continuous learning.
+Cybersecurity student passionate about offensive security, cloud security and continuous learning.
 
 I’m currently building strong foundations in networking, Linux, Python, and web security while gaining hands-on experience through labs and practical projects.
 
@@ -15,8 +15,8 @@ I’m currently building strong foundations in networking, Linux, Python, and we
 
 ## 🎯 Career Goals
 
-* Become a Skilled Penetration Tester
-* Specialize in Offensive Security / Red Teaming
+* Become a Skilled Cloud Engineer and a Penetration tester 
+* Specialize in Purple Teaming
 * Build Real-World Security Projects
 * Transition into AI Security in the future
 
@@ -34,8 +34,8 @@ I’m currently building strong foundations in networking, Linux, Python, and we
 
 ## 🌱 Currently Learning
 
-* Web Pentesting
-* Ethical Hacking Methodologies
+* Networking 
+* AWS/Azure 
 * Linux Privilege Escalation
 * Enumeration Techniques
 * Security Tools & Workflows
