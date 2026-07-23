@@ -49,7 +49,7 @@ I’m currently building strong foundations in networking, Linux, Python, and we
 
 ## 🤝 Let’s Connect
 
-* LinkedIn: linkedin.com/in/victory-patrick-b60128376
+* [LinkedIn](linkedin.com/in/victory-patrick-b60128376)
 * TryHackMe: http://tryhackme.com/p/cyb3rviks
 
 ---
